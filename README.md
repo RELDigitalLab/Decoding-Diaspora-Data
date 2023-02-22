@@ -1,1 +1,1 @@
-# Deecoding-Diaspora
+# Decoding-Diaspora
